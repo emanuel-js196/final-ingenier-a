@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"PC4-M6";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"SUPPLIER";"PISCO TAIWAN Co.,LTD.";"";
+"MASS";"6";"";
+"TraceParts.PartNumber";"90-24072019-032146";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"PC4-M6";"";
+"TraceParts.InstanceId";"90-24072019-03214690MVY0FZVHZ6OPKAOHFQE6D6U";"";
+"TraceParts.PartTitle";"Straight";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"PISCO_416604109:90-24072019-032146";"";
+"TraceParts.PartStatus";"Published";"";
